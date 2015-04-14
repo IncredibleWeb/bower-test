@@ -1,8 +1,5 @@
 {
-  "registry": {
-    "search": [
-      "https://sto-proget-01.bde.local/bower-feeds/Site.Stack",      
-      "http://localhost:81/bower/sitestack"
-    ]
-  }
+  "analytics": false,
+  "timeout": 120000,
+  "registry": "https://sto-proget-01.bde.local/bower-feeds/Site.Stack"
 }
